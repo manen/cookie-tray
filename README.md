@@ -1,6 +1,6 @@
 # Cookie Tray
 
-A very simple and small (<300b) library for serializing and deserializing cookies.
+A very simple and small (<0.5kb) library for serializing and deserializing cookies.
 
 ## Usage
 
