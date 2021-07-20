@@ -1,6 +1,6 @@
 {
 	"name": "cookie-tray",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Simple cookie parser and stringifier utility",
 	"main": "dist/index.js",
 	"types": "src/index.ts",
